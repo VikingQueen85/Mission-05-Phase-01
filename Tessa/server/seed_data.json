@@ -1,0 +1,63 @@
+
+[
+    {
+        "title": "Vintage Leather Jacket",
+        "description": "A classic, well-preserved leather jacket from the 80s.",
+        "category": "Apparel",
+        "start_price": 50.00,
+        "reserve_price": 80.00,
+        "current_price": 50.00,
+        "end_time": "2025-06-08T20:00:00Z",
+        "seller": "user123",
+        "image_urls": ["https://example.com/jacket1.jpg", "https://example.com/jacket2.jpg"],
+        "condition": "Used"
+    },
+    {
+        "title": "Antique Wooden Chair",
+        "description": "Hand-carved chair, perfect for a rustic home decor.",
+        "category": "Furniture",
+        "start_price": 100.00,
+        "reserve_price": 150.00,
+        "current_price": 100.00,
+        "end_time": "2025-06-10T18:30:00Z",
+        "seller": "antique_finder",
+        "image_urls": ["https://example.com/chair1.jpg"],
+        "condition": "Good"
+    },
+    {
+        "title": "Rare Coin Collection",
+        "description": "A small but valuable collection of historical coins.",
+        "category": "Collectibles",
+        "start_price": 250.00,
+        "reserve_price": 300.00,
+        "current_price": 250.00,
+        "end_time": "2025-06-12T15:00:00Z",
+        "seller": "coin_master",
+        "image_urls": ["https://example.com/coin1.jpg", "https://example.com/coin2.jpg"],
+        "condition": "Excellent"
+    },
+    {
+        "title": "Brand New Smartphone X",
+        "description": "Latest model, sealed in box, unlocked.",
+        "category": "Electronics",
+        "start_price": 700.00,
+        "reserve_price": 750.00,
+        "current_price": 700.00,
+        "end_time": "2025-06-09T22:00:00Z",
+        "seller": "tech_deals",
+        "image_urls": ["https://example.com/phone1.jpg"],
+        "condition": "New"
+    },
+    {
+        "title": "Classic Vinyl Record Player",
+        "description": "Fully functional, retro design, great sound.",
+        "category": "Electronics",
+        "start_price": 80.00,
+        "reserve_price": 100.00,
+        "current_price": 80.00,
+        "end_time": "2025-06-11T17:00:00Z",
+        "seller": "music_lover",
+        "image_urls": ["https://example.com/turntable1.jpg"],
+        "condition": "Used"
+    }
+]
