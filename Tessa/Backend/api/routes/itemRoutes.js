@@ -20,7 +20,6 @@ router.get('/', async (req, res) => {
             };
         }
 
-        // Removed explicit projection to fetch ALL fields defined in the schema
         const items = await Product.find(query);
         res.json(items);
     } catch (err) {

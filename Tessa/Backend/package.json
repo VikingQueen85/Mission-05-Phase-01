@@ -6,7 +6,8 @@
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js",
-    "dev": "nodemon api/server.js"
+    "dev": "nodemon api/server.js",
+    "seed": "node cli/seed_tool.js seed"
   },
   "keywords": [
     "trademe",

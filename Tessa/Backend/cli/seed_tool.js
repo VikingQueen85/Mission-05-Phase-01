@@ -51,6 +51,18 @@ async function seedData() {
                 "condition": "Used"
             },
             {
+                "title": "Vintage Leather Jacket",
+                "description": "Discover a timeless piece!! This well-preserved vintage leather jacket from the 80s is now available for a new owner. Perfect for adding a classic touch to any wardrobe.",
+                "category": "Apparel",
+                "start_price": 100.00,
+                "reserve_price": 130.00,
+                "current_price": 100.00,
+                "end_time": "2025-09-11T20:00:00Z",
+                "seller": "vintage_lover",
+                "image_urls": ["https://example.com/jacket1.jpg", "https://example.com/jacket2.jpg"],
+                "condition": "New"
+            },
+            {
                 "title": "Antique Wooden Chair",
                 "description": "Hand-carved chair, perfect for a rustic home decor.",
                 "category": "Furniture",
